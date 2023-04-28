@@ -46,6 +46,7 @@ button{
 }
 @media screen and (max-width: 500px){
   #pokemonImg{
+    margin-top: 40px;
     width: 300px;
     height: 300px;
   }
@@ -57,6 +58,7 @@ button{
     text-align: center;
   }
   input{
+    margin-top: 20px;
     height: 40px;
     width: 250px;
     font-size: 1.3rem;
